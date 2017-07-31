@@ -1,0 +1,3 @@
+The CSS & JS files have been moved into the CMS. Updates to the Bootstrap version should be made there by making a duplicate of the existing files (asa working backup) and then copy & paste the new CSS & JS into the existing file.
+
+In the CSS file,  be sure to update the glyphicons fonts path to the path outlines in the Notes Tab.
