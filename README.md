@@ -6,3 +6,5 @@ These are my basic files to quickly complete an ExpressionEngine v3.x install. I
 2. Login to the Control panel and complete the basic setup.
 3. Go to Settings -> Template Settings and Save Templates as Files -> YES
 4. Upload the default_site, Addon contents, and Assets folders as specified by the directory structure.
+
+All Libraries, plugins and other third part elememts are free and available under various public licenses.
