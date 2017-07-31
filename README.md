@@ -13,3 +13,6 @@ All Libraries, plugins and other third part elememts are free and available unde
 # EE Addons
 1. Minimee - Ver. 3.0.0 by John D. Wells - http://johndwells.github.com/Minimee
 2. Seo-Lite - Ver. 1.5.2 by Wedoaddons - http://wedoaddons.com
+
+# Notes
+This desire for this setup is to place as much as possible within the CMS, so the Bootstrap .js and .css files as well as the custom .css file can be found within the resources template group in Expression Engine's Control panel. Updating of the Bootstrap version should be a simple process of downloading the latest version, and copying the most recent code into the appropriate files inside EE.
